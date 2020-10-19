@@ -17,7 +17,7 @@
     "test": "jest"
   },
   "engines": {
-    "node": "^9"
+    "node": ">=9"
   },
   "repository": "github:olin-build/abe-web",
   "keywords": [
